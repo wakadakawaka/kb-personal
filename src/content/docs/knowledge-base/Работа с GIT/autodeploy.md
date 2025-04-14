@@ -60,8 +60,16 @@ git config --global user.email "you@example.com"
 
 ```php
 <?php
-// webhook/index.php
-shell_exec("schtasks /Run /TN \"Docusaurus Auto Deploy\"");
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
+$logMessage = "Gitea Webhook triggered update";
+file_put_contents('C:\\Apache24\\htdocs\\webhook\\webhook.log', date('Y-m-d H:i:s') . " Webhook received\n", FILE_APPEND);
+
+// Записать событие в журнал
+exec('eventcreate /T INFORMATION /ID 1000 /L APPLICATION /SO DocusaurusWebhook /D "' . $logMessage . '"');
+
 echo "OK";
 ```
 
@@ -95,10 +103,10 @@ exit /b 0
 1. Открой "Планировщик заданий Windows"
 2. Создай задачу **"Docusaurus Auto Deploy"**
 3. Установи:
-   - Триггеры: нет (будет запускаться вручную через webhook)
+   - Триггеры: При событии (Простое, Журнал: Приложение, Источник: DocusaurusWebhook, Код события: 1000)
    - Действие: `cmd.exe`
      - Аргументы: `/c C:\mykb\update-site.bat`
-   - Запуск от имени администратора
+   - Параметры безопасности: Выполнять вне зависимости от регистрации пользователя; Выполнять с наивысшими правами;
 
 Проверь запуск вручную:  
 `schtasks /Run /TN "Docusaurus Auto Deploy"`
