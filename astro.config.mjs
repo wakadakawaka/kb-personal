@@ -17,6 +17,7 @@ export default defineConfig({
 				{
 					label: 'База знаний',
 					// Autogenerate a group of links for the 'constellations' directory.
+					collapsed: true,
 					autogenerate: { directory: 'knowledge-base' },
 				  },
 			],
