@@ -12,7 +12,7 @@ export default defineConfig({
         		// Relative path to your custom CSS file
       	  		'./src/styles/custom.css',
      		 ],
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://git.sinenikolsky.ru/artem/starlite-bsp-kb.git' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://git.sinenikolsky.ru/wakadakawaka/kb-personal.git' }],
 			sidebar: [
 				{
 					label: 'База знаний',
