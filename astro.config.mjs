@@ -15,20 +15,10 @@ export default defineConfig({
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://git.sinenikolsky.ru/artem/starlite-bsp-kb.git' }],
 			sidebar: [
 				{
-					collapsed: true,
-					label: 'Библиотека стандартных подсистем',
-					autogenerate: { directory: 'bsp' },
-				},
-				{
-					collapsed: true,
-					label: 'Зарплата и управление персоналом',
-					autogenerate: { directory: 'zup' },
-				},
-				{
-					collapsed: true,
-					label: 'ERP. Управление холдингом',
-					autogenerate: { directory: 'erp_uh' },
-				},
+					label: 'База знаний',
+					// Autogenerate a group of links for the 'constellations' directory.
+					autogenerate: { directory: 'knowledge-base' },
+				  },
 			],
 		}),
 	],
