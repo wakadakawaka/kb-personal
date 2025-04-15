@@ -1,6 +1,6 @@
 ---
 title: Первая статья
-slug: test/first\_page
+slug: test-first-page
 ---
 
 ## Привет, мир
