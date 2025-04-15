@@ -1,5 +1,6 @@
 ---
 title: Переключение между ветками и коммитами
+slug: knowledge-base/rabota-s-git/osnovnye-komandy/pereklyuchenie-mezhdu-vetkami-i-kommitami
 ---
 
 `git checkout` — переключает на другую ветку, коммит или файл.

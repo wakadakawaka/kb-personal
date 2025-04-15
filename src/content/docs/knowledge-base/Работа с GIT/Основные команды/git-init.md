@@ -1,5 +1,6 @@
 ---
 title: Инициализация репозитория
+slug: knowledge-base/rabota-s-git/osnovnye-komandy/initsializatsiya-repozitoriya
 ---
 
 `git init` — команда, которая создаёт новый Git-репозиторий в текущей папке. Это первый шаг при создании проекта под управление версиями.

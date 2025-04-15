@@ -1,5 +1,6 @@
 ---
 title: Клонирование репозитория
+slug: knowledge-base/rabota-s-git/osnovnye-komandy/klonirovanie-repozitoriya
 ---
 
 `git clone` — команда, с помощью которой можно скопировать удалённый репозиторий (например, с Gitea, GitHub или GitLab) на свой компьютер.

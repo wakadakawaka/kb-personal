@@ -1,5 +1,6 @@
 ---
 title: Создание нового проекта с нуля
+slug: knowledge-base/rabota-s-git/primery-ispolzovaniya/sozdanie-novogo-proekta-s-nulya
 ---
 
 Пример: вы хотите создать новый проект и загрузить его на GitHub или Gitea.

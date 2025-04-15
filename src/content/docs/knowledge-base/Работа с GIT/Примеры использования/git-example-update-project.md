@@ -1,5 +1,6 @@
 ---
 title: Получение обновлений из оригинального репозитория
+slug: knowledge-base/rabota-s-git/primery-ispolzovaniya/poluchenie-obnovleniy-iz-originalnogo-repozitoriya
 ---
 
 Если вы сделали форк и хотите получить последние изменения из оригинала:
