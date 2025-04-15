@@ -1,6 +1,6 @@
-***
-
-title: Первая статьяslug: test/first\_page
+---
+title: Первая статья
+slug: test/first\_page
 ---
 
 ## Привет, мир
