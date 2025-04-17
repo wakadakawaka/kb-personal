@@ -1,3 +1,7 @@
+---
+title: Установка Apache на Windows
+slug: administrirovanie/ustanovka-apache-na-windows
+---
 # 🛠 Установка Apache HTTP Server на Windows
 
 Полная пошаговая инструкция по установке и настройке веб-сервера Apache на Windows.

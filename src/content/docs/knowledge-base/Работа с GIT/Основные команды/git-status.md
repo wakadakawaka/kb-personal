@@ -1,6 +1,6 @@
 ---
 title: Проверка состояния репозитория
-slug: knowledge-base/rabota-s-git/osnovnye-komandy/proverka-sostoyaniya-repozitoriya
+slug: rabota-s-git-osnovnye-komandy/proverka-sostoyaniya-repozitoriya
 ---
 
 `git status` — одна из самых часто используемых команд. Показывает, какие файлы изменены, какие — готовы к коммиту, а какие — нет.

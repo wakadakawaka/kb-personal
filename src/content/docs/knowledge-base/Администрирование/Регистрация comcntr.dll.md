@@ -1,3 +1,7 @@
+---
+title: Регистрация comcntr.dll
+slug: administrirovanie/registratsiya-comcntr-dll
+---
 
 ## Через консоль
 ```PowerShell

@@ -1,6 +1,6 @@
 ---
 title: Работа с ветками
-slug: knowledge-base/rabota-s-git/osnovnye-komandy/rabota-s-vetkami
+slug: rabota-s-git-osnovnye-komandy/rabota-s-vetkami
 ---
 
 Git позволяет работать с несколькими версиями проекта одновременно с помощью веток (branches).

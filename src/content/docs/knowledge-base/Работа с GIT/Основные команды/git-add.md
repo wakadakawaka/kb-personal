@@ -1,6 +1,6 @@
 ---
 title: Добавление файлов в индекс
-slug: knowledge-base/rabota-s-git/osnovnye-komandy/dobavlenie-faylov-v-indeks
+slug: rabota-s-git-osnovnye-komandy/dobavlenie-faylov-v-indeks
 ---
 
 `git add` — подготавливает файлы для коммита. Без этой команды Git не будет учитывать изменения.

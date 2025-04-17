@@ -1,3 +1,7 @@
+---
+title: Пример создания http-запроса к API-сайта
+slug: primery-snippety-obschee-obmen-dannymi/primer-sozdaniya-http-zaprosa-k-api-sayta
+---
 
 Пример запроса к ресурсу `https://proverkacheka.com/api/v1/check/get`
 ```bsl

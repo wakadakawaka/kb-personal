@@ -1,3 +1,7 @@
+---
+title: Пример генерации QR-кода
+slug: primery-snippety-bsp-i-tipovye-shtrihkody/primer-generatsii-qr-koda
+---
 ```bsl
 //  QRСтрока         - Строка - данные, которые необходимо разместить в QR-коде.
 //

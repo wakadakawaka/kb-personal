@@ -1,6 +1,6 @@
 ---
 title: Просмотр истории коммитов
-slug: knowledge-base/rabota-s-git/osnovnye-komandy/prosmotr-istorii-kommitov
+slug: rabota-s-git-osnovnye-komandy/prosmotr-istorii-kommitov
 ---
 
 `git log` — показывает все коммиты в истории репозитория

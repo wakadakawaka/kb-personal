@@ -1,6 +1,6 @@
 ---
 title: Настройка пользователя
-slug: knowledge-base/rabota-s-git/osnovnye-komandy/nastroyka-polzovatelya
+slug: rabota-s-git-osnovnye-komandy/nastroyka-polzovatelya
 ---
 
 Перед первым использованием Git нужно указать своё имя и email. Они будут использоваться в каждом коммите.
