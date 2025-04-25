@@ -1,6 +1,6 @@
 ---
 title: Слияние веток
-slug: rabota-s-git-osnovnye-komandy/sliyanie-vetok
+slug: работа-с-git-основные-команды/слияние-веток
 ---
 
 `git merge` — объединяет одну ветку с другой. Обычно используется, чтобы влить изменения из feature-ветки в основную (main или master).

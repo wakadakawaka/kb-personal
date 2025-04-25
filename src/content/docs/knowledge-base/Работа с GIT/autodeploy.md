@@ -1,6 +1,6 @@
 ---
 title: Автоматический деплой сайта из Gitea через Webhook
-slug: rabota-s-git/avtomaticheskiy-deploy-sayta-iz-gitea-cherez-webhook
+slug: работа-с-git/автоматический-деплой-сайта-из-gitea-через-webhook
 ---
 
 ## 📋 Описание

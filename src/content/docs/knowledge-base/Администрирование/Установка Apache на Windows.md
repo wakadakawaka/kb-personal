@@ -1,6 +1,6 @@
 ---
 title: Установка Apache на Windows
-slug: administrirovanie/ustanovka-apache-na-windows
+slug: администрирование/установка-apache-на-windows
 ---
 # 🛠 Установка Apache HTTP Server на Windows
 

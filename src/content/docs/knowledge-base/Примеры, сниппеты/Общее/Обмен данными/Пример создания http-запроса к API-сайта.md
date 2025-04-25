@@ -1,6 +1,6 @@
 ---
 title: Пример создания http-запроса к API-сайта
-slug: primery-snippety-obschee-obmen-dannymi/primer-sozdaniya-http-zaprosa-k-api-sayta
+slug: примеры-сниппеты-общее-обмен-данными/пример-создания-http-запроса-к-api-сайта
 ---
 
 Пример запроса к ресурсу `https://proverkacheka.com/api/v1/check/get`

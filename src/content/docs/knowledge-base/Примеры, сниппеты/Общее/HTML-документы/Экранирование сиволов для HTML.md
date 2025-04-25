@@ -1,6 +1,6 @@
 ---
 title: Экранирование символов для вставки в html
-slug: primery-snippety-obschee-html-dokumenty/ekranirovanie-simvolov-dlya-vstavki-v-html
+slug: примеры-сниппеты-общее-html-документы/экранирование-символов-для-вставки-в-html
 ---
 
 ```bsl

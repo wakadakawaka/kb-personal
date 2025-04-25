@@ -1,6 +1,6 @@
 ---
 title: Фиксация изменений
-slug: rabota-s-git-osnovnye-komandy/fiksatsiya-izmeneniy
+slug: работа-с-git-основные-команды/фиксация-изменений
 ---
 
 `git commit` — сохраняет изменения, подготовленные командой `git add`, в историю проекта.

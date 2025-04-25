@@ -1,6 +1,6 @@
 ---
 title: Статусы соединения с DIRECTUM
-slug: primery-snippety-obschee-obmen-dannymi-directum/statusy-soedineniya-s-directum
+slug: примеры-сниппеты-общее-обмен-данными-directum/статусы-соединения-с-directum
 ---
 
 ```bsl

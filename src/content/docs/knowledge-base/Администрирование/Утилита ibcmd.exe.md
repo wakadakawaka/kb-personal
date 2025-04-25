@@ -1,6 +1,6 @@
 ---
 title: Утилита ibcmd.exe
-slug: administrirovanie/utilita-ibcmd-exe
+slug: администрирование/утилита-ibcmd-exe
 ---
 
 # Утилита `ibcmd.exe`

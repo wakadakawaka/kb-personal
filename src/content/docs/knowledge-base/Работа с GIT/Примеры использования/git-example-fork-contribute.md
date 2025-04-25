@@ -1,6 +1,6 @@
 ---
 title: Форк и вклад в чужой проект
-slug: rabota-s-git-primery-ispolzovaniya/fork-i-vklad-v-chuzhoy-proekt
+slug: работа-с-git-примеры-использования/форк-и-вклад-в-чужой-проект
 ---
 
 Пример: вы хотите внести изменения в чужой репозиторий на GitHub.

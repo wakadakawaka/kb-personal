@@ -1,6 +1,6 @@
 ---
 title: Настройка EDT после установки
-slug: primery-snippety-obschee-prochee/nastroyka-edt-posle-ustanovki
+slug: примеры-сниппеты-общее-прочее/настройка-edt-после-установки
 ---
 1. Установите EDT
 

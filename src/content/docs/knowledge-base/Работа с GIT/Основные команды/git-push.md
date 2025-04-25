@@ -1,6 +1,6 @@
 ---
 title: Отправка изменений в удалённый репозиторий
-slug: rabota-s-git-osnovnye-komandy/otpravka-izmeneniy-v-udalyonnyy-repozitoriy
+slug: работа-с-git-основные-команды/отправка-изменений-в-удал-нный-репозиторий
 ---
 
 `git push` — отправляет локальные коммиты в удалённый репозиторий.

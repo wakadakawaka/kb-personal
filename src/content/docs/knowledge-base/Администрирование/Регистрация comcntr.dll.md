@@ -1,6 +1,6 @@
 ---
 title: Регистрация comcntr.dll
-slug: administrirovanie/registratsiya-comcntr-dll
+slug: администрирование/регистрация-comcntr-dll
 ---
 
 ## Через консоль
