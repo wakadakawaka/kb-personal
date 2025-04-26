@@ -1,6 +1,6 @@
 ---
-title: Обход блокировки Youtube с Amnesia
-slug: прочее/обход-блокировки-youtube-с-amnesia
+title: Обход блокировки Youtube с Amnezia
+slug: прочее/обход-блокировки-youtube-с-amnezia
 ---
 # Сгенерируйте конфиг Cloudflare WARP для AmneziaWG
 Этот bash скрипт сгенерирует конфиг Cloudflare WARP для AmneziaWG.
