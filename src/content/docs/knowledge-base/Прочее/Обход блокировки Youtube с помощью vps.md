@@ -1,5 +1,5 @@
 ---
-title: Обход блокировки Youtube с помощью vps
+title: Установка и настройка OpenVPN на Debian
 slug: прочее/обход-блокировки-youtube-с-помощью-vps
 ---
 # Установка и настройка OpenVPN на Debian 12
