@@ -74,12 +74,12 @@ artem_pc
 /root/artem_pc.ovpn
 ```
 
-### Как скачать `.ovpn` файл на Windows через PowerShell
+### Как скачать все `.ovpn` файлы на Windows через PowerShell
 
 В PowerShell выполни команду:
 
 ```powershell
-scp root@<IP-адрес сервера>:/root/artem_pc.ovpn C:\Users\ТВОЙ_ПОЛЬЗОВАТЕЛЬ\Downloads\
+scp root@<IP-адрес сервера>:/root/*.ovpn C:\Users\ТВОЙ_ПОЛЬЗОВАТЕЛЬ\Downloads\
 ```
 
 Где:
